@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474738307458",
+    "project_id": "trend-tracker-1b185",
+    "storage_bucket": "trend-tracker-1b185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474738307458:android:b80a111c6b06251412df9b",
+        "android_client_info": {
+          "package_name": "com.example.trend_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474738307458-5pddkkb7birctot9o6828sp0epjhu4im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm0QkeOhLZOARphTZvX4zn7D5t-eh4kEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474738307458-5pddkkb7birctot9o6828sp0epjhu4im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
